@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 9087334a45e18304298091cd356e9541
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3206364367317123349
+    second: PC Computer - Plants vs Zombies - Seed Packets_0
+  - first:
+      213: -8286345196286092851
+    second: PC Computer - Plants vs Zombies - Seed Packets_1
+  - first:
+      213: -3346381195697431337
+    second: PC Computer - Plants vs Zombies - Seed Packets_2
+  - first:
+      213: -2118511689696565997
+    second: PC Computer - Plants vs Zombies - Seed Packets_3
+  - first:
+      213: -4201890367582474833
+    second: PC Computer - Plants vs Zombies - Seed Packets_4
+  - first:
+      213: -895918476303123628
+    second: PC Computer - Plants vs Zombies - Seed Packets_5
+  - first:
+      213: -3987531474694688324
+    second: PC Computer - Plants vs Zombies - Seed Packets_6
+  - first:
+      213: -3696551186299826067
+    second: PC Computer - Plants vs Zombies - Seed Packets_7
+  - first:
+      213: 7112519446193716893
+    second: PC Computer - Plants vs Zombies - Seed Packets_8
+  - first:
+      213: 4864985698646508879
+    second: PC Computer - Plants vs Zombies - Seed Packets_9
+  - first:
+      213: 7777750580787610659
+    second: PC Computer - Plants vs Zombies - Seed Packets_10
+  - first:
+      213: -4969134930652728965
+    second: PC Computer - Plants vs Zombies - Seed Packets_11
+  - first:
+      213: -7817482033922123269
+    second: PC Computer - Plants vs Zombies - Seed Packets_12
+  - first:
+      213: 2996591967631825093
+    second: PC Computer - Plants vs Zombies - Seed Packets_13
+  - first:
+      213: -9027356032384608473
+    second: PC Computer - Plants vs Zombies - Seed Packets_14
+  - first:
+      213: 583918031064953466
+    second: PC Computer - Plants vs Zombies - Seed Packets_15
+  - first:
+      213: -3719934979709703227
+    second: PC Computer - Plants vs Zombies - Seed Packets_16
+  - first:
+      213: -3410825557542961683
+    second: PC Computer - Plants vs Zombies - Seed Packets_17
+  - first:
+      213: -454706343615307949
+    second: PC Computer - Plants vs Zombies - Seed Packets_18
+  - first:
+      213: -9036511642374007056
+    second: PC Computer - Plants vs Zombies - Seed Packets_19
+  - first:
+      213: 7569289411417000481
+    second: PC Computer - Plants vs Zombies - Seed Packets_20
+  - first:
+      213: -1410161180194860473
+    second: PC Computer - Plants vs Zombies - Seed Packets_21
+  - first:
+      213: 8590658231615446206
+    second: PC Computer - Plants vs Zombies - Seed Packets_22
+  - first:
+      213: -2285468569009373215
+    second: PC Computer - Plants vs Zombies - Seed Packets_23
+  - first:
+      213: 8226953289450261268
+    second: PC Computer - Plants vs Zombies - Seed Packets_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb7919894b083d0800000000000000
+      internalID: -3206364367317123349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95a1962fcf00d80800000000000000
+      internalID: -8286345196286092851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 215
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc586b48044f81d0800000000000000
+      internalID: -3346381195697431337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 215
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315af13b7d88992e0800000000000000
+      internalID: -2118511689696565997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 241
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad6c1729f2efa5c0800000000000000
+      internalID: -4201890367582474833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 238
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3e3084ee0193f0800000000000000
+      internalID: -895918476303123628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 240
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13228204179a8c0800000000000000
+      internalID: -3987531474694688324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 236
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60dc8ef74633bcc0800000000000000
+      internalID: -3696551186299826067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 167
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e3f68a0ceb4b260800000000000000
+      internalID: 7112519446193716893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f454e2597b6e38340800000000000000
+      internalID: 4864985698646508879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240f67e1fe10fb60800000000000000
+      internalID: 7777750580787610659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 169
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717571bb161a0bb0800000000000000
+      internalID: -4969134930652728965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 170
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d21a4289b28390800000000000000
+      internalID: -7817482033922123269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 168
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8db779488069920800000000000000
+      internalID: 2996591967631825093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 167
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275cbc748368b280800000000000000
+      internalID: -9027356032384608473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7272930b5e7a1800800000000000000
+      internalID: 583918031064953466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 101
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6ad258d2206cc0800000000000000
+      internalID: -3719934979709703227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 73
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf3db0a305aa0d0800000000000000
+      internalID: -3410825557542961683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 73
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f51b75dfe80b9f0800000000000000
+      internalID: -454706343615307949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 73
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f69d9be98cd79280800000000000000
+      internalID: -9036511642374007056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 73
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac2a9ad948b0960800000000000000
+      internalID: 7569289411417000481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 73
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7429072c0e91e6ce0800000000000000
+      internalID: -1410161180194860473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 73
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc593a7526283770800000000000000
+      internalID: 8590658231615446206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 73
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef30e602726840e0800000000000000
+      internalID: -2285468569009373215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Plants vs Zombies - Seed Packets_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0a61bd620c2270800000000000000
+      internalID: 8226953289450261268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
