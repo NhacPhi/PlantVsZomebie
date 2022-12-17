@@ -19,6 +19,18 @@ public enum Zoombie
     TYPE2,
     TYPE3
 }
+
+public enum ZombieState
+{
+    IDLE,
+    WALK,
+    EAT,
+    DEATH
+}
+public enum  GameState
+{
+
+}
 public class SCR_Definition 
 {
     // GRID
@@ -28,9 +40,16 @@ public class SCR_Definition
     // TIME
     public static float TIMING_SPAWN_SUN_FLOWER = 10;
     public static float TIMING_SPAWM_SUN = 12;
+    public static float TIMING_MINE_ADULT = 5;
+    public static float TIMING_SPAWN_BULLET = 1.5f;
 
     // COST
     public static int COST_FLOWER = 50;
-
+    public static int COST_WALL = 50;
+    public static int COST_PEASHOOTER = 100;
+    public static int COST_MINE = 25;
+    public static int COST_CABBAGE = 125;
+    public static int COST_SNOWPEA = 175;
+    public static int COST_CHERRY_BOOM = 200;
     //COUNT DOWN
 }

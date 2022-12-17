@@ -2,64 +2,78 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SunFlower : MonoBehaviour, IPlant
+public class SnowPea : MonoBehaviour,IPlant
 {
-    [SerializeField]
-    private GameObject prefabSun;
-
-    [SerializeField]
-    private Transform positionSpawn;
-
     private bool isActive;
 
+    public int value;
+
     [SerializeField]
-    private int value;
+    private Transform positionSpawnBullet;
+
+    [SerializeField]
+    private GameObject prefabBullet;
+
+    [SerializeField]
+    private Weapon weapon;
+
+    private bool isCanShoot;
 
     public int heart;
 
     private bool isBeActack;
-
     // Start is called before the first frame update
     void Start()
     {
+        value = SCR_Definition.COST_SNOWPEA;
         isActive = false;
-        //StartCoroutine(TimeToSpawnSun());
-        //SpawnSun();
-        value = SCR_Definition.COST_FLOWER;
+        isCanShoot = true;
         heart = 5;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
-    }
-
-    void SpawnSun()
-    {
-        GameObject ob = Instantiate(prefabSun, positionSpawn.position, Quaternion.identity);
-        ob.GetComponent<Rigidbody2D>().AddForce(new Vector2(-1f, 1f) * 20);
+        if (weapon.isDetect)
+        {
+            isCanShoot = true;
+        }
+        else
+        {
+            isCanShoot = false;
+        }
     }
 
     public void ActivePlant()
     {
-        Debug.Log("Active Flower");
         isActive = true;
-        StartCoroutine(TimeToSpawnSun());
-    }
-    IEnumerator TimeToSpawnSun()
-    {
-       while(true)
-        {
-            yield return new WaitForSeconds(SCR_Definition.TIMING_SPAWN_SUN_FLOWER);
-            SpawnSun();
-        }
-
+        StartCoroutine(TimeToSpawnBullet());
     }
 
     public int GetValue()
     {
         return value;
+        //StartCoroutine(TimeToSpawnBullet());
+    }
+    void SpawnBullet()
+    {
+        GameObject ob = Instantiate(prefabBullet, positionSpawnBullet.position, Quaternion.identity);
+    }
+    IEnumerator TimeToSpawnBullet()
+    {
+        if(isCanShoot)
+        {
+            while (true)
+            {
+                yield return new WaitForSeconds(SCR_Definition.TIMING_SPAWN_BULLET);
+                if(isCanShoot)
+                {
+                    SpawnBullet();
+                }
+            }
+
+        }
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

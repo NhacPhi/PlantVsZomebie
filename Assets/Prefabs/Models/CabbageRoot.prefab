@@ -809,6 +809,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6996881841073196684}
+  - component: {fileID: 2865677945415654135}
   m_Layer: 0
   m_Name: CabbageRoot
   m_TagString: Untagged
@@ -831,6 +832,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2865677945415654135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8757275824148958268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5f2fd4451b575a4c9e1850eec4e27c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  value: 125
 --- !u!1001 &3912009287719235898
 PrefabInstance:
   m_ObjectHideFlags: 0
